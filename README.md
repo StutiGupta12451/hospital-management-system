@@ -47,4 +47,3 @@ Python 3.x installed
 
 MySQL installed and running
 
-A MySQL database named mydata with a table named hospital having the following columns:
